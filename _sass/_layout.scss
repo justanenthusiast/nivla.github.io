@@ -72,7 +72,10 @@
 }
 
 .post-title {
+    font-family: 'Droid Serif', serif;
     font-size: 2rem;
+    font-weight: 800;
+    color: $black-color;
     letter-spacing: -1px;
     line-height: 1;
 }
